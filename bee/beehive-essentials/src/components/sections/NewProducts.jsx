@@ -17,25 +17,25 @@ export default function NewProducts() {
         <Card
           title="Langstroth Hive Kit"
           price="KSh 24,999"
-          image="https://images.unsplash.com/photo-1587049334527-0b2bc4c10c3f?w=600&h=800&fit=crop"
+          image="//media.istockphoto.com/id/1127043292/photo/new-cypress-8-frame-langstroth-beehive-kit.jpg?s=612x612&w=is&k=20&c=Apz3hiTaF-L0rVDeXqnjai-wQlktnOqvHUEhwUDXBSA="
           alt="Wooden Langstroth beehive with frames"
         />
         <Card
           title="Ventilated Bee Suit"
           price="KSh 8,500"
-          image="https://images.pexels.com/photos/5668770/pexels-photo-5668770.jpeg?w=600&h=800&fit=crop"
+          image="//images.unsplash.com/photo-1576765608250-c466ee3327af?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8MTkyMCoxMDgwJTIwVmVudGlsYXRlZCUyMEJlZSUyMFN1aXR8ZW58MHx8MHx8fDA%3D"
           alt="Professional beekeeper suit with veil"
         />
         <Card
           title="Honey Extractor (4-Frame)"
           price="KSh 38,000"
-          image="https://images.unsplash.com/photo-1622030236174-729d81b433ede?w=600&h=800&fit=crop"
+          image="//media.istockphoto.com/id/1297163128/photo/the-extractor-full-of-honeycombs-before-starting.jpg?s=1024x1024&w=is&k=20&c=UGqxNbsVJhFe5ThQrDHvJEGml_vcb-pefqIgsjyXlRU="
           alt="Stainless steel honey extractor"
         />
         <Card
           title="Smoker with Fuel"
           price="KSh 3,200"
-          image="https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg?w=600&h=800&fit=crop"
+          image="//media.istockphoto.com/id/506762929/photo/bee-smoker-on-a-wood-pile.jpg?s=612x612&w=is&k=20&c=-l3iGuhycxVg0tzH3WQFoY_zgW_u03N3tGTdFNW4Ye8="
           alt="Classic beekeeping smoker"
         />
       </div>
