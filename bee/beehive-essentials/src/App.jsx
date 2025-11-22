@@ -1,12 +1,12 @@
 import Navigation from './components/layout/Navigation';
 import Hero from './components/sections/Hero';
-
+import NewProducts from './components/sections/NewProducts';
 function App() {
   return (
     <>
       <Navigation />
       <Hero />
-      {/* We’ll add more sections one by one */}
+      <NewProducts /> 
     </>
   );
 }
