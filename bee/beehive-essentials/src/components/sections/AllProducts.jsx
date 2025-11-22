@@ -24,16 +24,19 @@ export default function AllProducts() {
         </p>
       </div>
 
-      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
-        {products.map((product, i) => (
-          <Card
-            key={i}
-            title={product.title}
-            price={product.price}
-            image={product.img}
-            alt={product.title}
-          />
-        ))}
+      <div className="overflow-x-auto -mx-6 px-6">
+        <div className="flex gap-6 py-4">
+          {products.map((product, i) => (
+            <div key={i} className="min-w-[260px] flex-shrink-0">
+              <Card
+                title={product.title}
+                price={product.price}
+                image={product.img}
+                alt={product.title}
+              />
+            </div>
+          ))}
+        </div>
       </div>
     </SectionWrapper>
   );
